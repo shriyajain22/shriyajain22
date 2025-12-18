@@ -1,6 +1,6 @@
 # Hi, I am Shriya!
 
-I’m a **Bioinformatics graduate student** at Boston University focused on **NGS analysis, reproducible workflows, and computational genomics**.
+I’m a **Bioinformatics graduate student** at Boston University with a deep interest in **computational genomics**.
 I have hands-on experience working with multi-omics datasets, data visualization, and reproducible pipeline design using Python, R, Nextflow, and cloud-based computing environments. 
 My interests lie in biotechnology, pharmaceuticals, and clinical research, where data-driven analysis directly informs therapeutic strategies and patient outcomes. 
 
