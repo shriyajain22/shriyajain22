@@ -6,18 +6,17 @@ My interests lie in biotechnology, pharmaceuticals, and clinical research, where
 
 ## Interests
 - **NGS:** RNA-seq, ATAC-seq, ChIP-seq
-- **Reproducible workflows:** Nextflow (DSL2), Conda, Singularity/Docker
-- **Statistical genomics:** DE analysis, differential accessibility, QC & visualization
+- **Reproducible workflows:** Nextflow, Conda, Singularity/Docker
+- **Statistical analysis:** DE analysis, MS data analysis, differential accessibility, QC & visualization
 - **Multi-omics:** RNA and ATAC integration, regulatory genomics, motif analysis
-- **Biology themes:** mitochondrial dysfunction, immune cell biology, disease models
 
 ## Expertise
 **Languages:** `Python` `R` `Bash` `MATLAB`  
 **Workflows:** `Nextflow` `Conda` `Singularity` `Docker` `Git/GitHub`  
 **NGS Tools:** `STAR` `HISAT2` `Bowtie2` `MACS2` `HOMER` `samtools`  
-**R/Bioconductor:** `DESeq2` `DiffBind` `edgeR` `tximport`  
+**R/Bioconductor:** `DESeq2` `DiffBind` 
 **Single-cell:** `Scanpy` `Seurat`  
-**Viz:** `ggplot2` `matplotlib`
+**Visualization:** `ggplot2` `matplotlib`
 
 ## Contact
 - Email: `shrjain@bu.edu`
