@@ -14,7 +14,7 @@ My interests lie in biotechnology, pharmaceuticals, and clinical research, where
 **Languages:** `Python` `R` `Bash` `MATLAB`  
 **Workflows:** `Nextflow` `Conda` `Singularity` `Docker` `Git/GitHub`  
 **NGS Tools:** `STAR` `HISAT2` `Bowtie2` `MACS2` `HOMER` `samtools`  
-**R/Bioconductor:** `DESeq2` `DiffBind` 
+**R/Bioconductor:** `DESeq2` `DiffBind`  
 **Single-cell:** `Scanpy` `Seurat`  
 **Visualization:** `ggplot2` `matplotlib`
 
