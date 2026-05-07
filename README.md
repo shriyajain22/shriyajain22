@@ -12,8 +12,8 @@ My experience spans RNA-seq, ATAC-seq, ChIP-seq, single-cell analysis, and large
 - Statistical modeling & biological data visualization
 
 ## Expertise
-**NGS Analysis:** RNA-seq, ATAC-seq, ChIP-seq, scRNA-seq
-**Languages:** `Python` `R` `Bash` `MATLAB` `SQL` `HTML` `Java`   
+**NGS Analysis:** RNA-seq, ATAC-seq, ChIP-seq, scRNA-seq  
+**Languages:** `Python` `R` `Bash` `MATLAB` `SQL` `HTML` `Java`  
 **Workflow & Reproducibility:** `Nextflow` `Conda` `Singularity` `Docker` `Git/GitHub`  
 **NGS Tools:** `STAR` `HISAT2` `Bowtie2` `MACS2` `HOMER` `samtools`  
 **Data Analysis & Visualization:** `Seurat` `Scanpy` `DESeq2` `DiffBind` `limma` `ggplot2` `matplotlib` 
